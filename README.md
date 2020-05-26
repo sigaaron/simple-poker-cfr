@@ -21,8 +21,6 @@ Then run the program to start the demo:
 This will train the agent for 1,000,000 iterations and let the user play against the newly trained agent.
 Training should only take a few seconds to complete.
 
-To learn more about CFR, check out this [excellent tutorial](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf), which inspired much of the code.
-
 
 ## Rules
 
